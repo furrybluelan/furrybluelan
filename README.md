@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src="https://www.yuanshen.com/" width="100%" height="500px"></iframe>
+
+<iframe
+  src="https://www.yuanshen.com/"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen
+  loading="lazy">
+</iframe>
